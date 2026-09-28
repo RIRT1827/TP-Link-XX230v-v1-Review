@@ -1,6 +1,6 @@
 # TP-Link-XX230v-v1-Review
 1. [Technical specifications](#technical-specifications)
-2. [Voltage](voltage)
+2. [Voltage](#voltage)
 
 # Technical specifications
 
@@ -41,5 +41,7 @@ xPON: ECONET EN7571N 2311BWAL ECMDKSY1
 
 
 # Voltage
+test on openwrt (version), all wifi ap disabled.
+[voltage.txt](voltage)
 ![TOP](images/top_voltage.png)
 ![BOTTOM](images/bottom_voltage.png)
