@@ -39,9 +39,14 @@ xPON: ECONET EN7571N 2311BWAL ECMDKSY1
 ![xPON](images/econet_en7571n.jpg)
 </details>
 Si32192-A-FM1
+</details>
+
+<summary> open image </summary>
+![S](images/Si32192-A-FM1.jpg)
+</details>
 
 # Voltage
-test on openwrt (version), all wifi AP disabled.
+test on openwrt, all wifi AP disabled.
 <br>
 [voltage.txt](voltage)
 ![TOP](images/top_voltage.png)
