@@ -15,7 +15,7 @@ RAM: Zentel A3T2GF40CBF-HP 2325ZE68 360475C
 <details>
 <summary> open image </summary>
   
-![RAM](images/nand.jpg)
+![RAM](images/zentel.jpg)
 </details>
 
 MEDIATEK MT7905DEN 2310-BXDKL CCMCFQN2R
@@ -37,6 +37,13 @@ xPON: ECONET EN7571N 2311BWAL ECMDKSY1
 <summary> open image </summary>
   
 ![xPON](images/econet_en7571n.jpg)
+</details>
+
+NAND Flash: ESMT F50L1G41LB
+<details>
+<summary> open image </summary>
+  
+![RAM](images/nand.jpg)
 </details>
 
 Si32192-A-FM1
