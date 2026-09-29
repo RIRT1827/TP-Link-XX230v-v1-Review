@@ -39,7 +39,7 @@ xPON: ECONET EN7571N 2311BWAL ECMDKSY1
 ![xPON](images/econet_en7571n.jpg)
 </details>
 Si32192-A-FM1
-</details>
+<details>
 
 <summary> open image </summary>
 ![S](images/Si32192-A-FM1.jpg)
