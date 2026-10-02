@@ -1,4 +1,4 @@
-# TP-Link-XX230v-v1-Review
+# TP_Link_XX230v_v1_voltage
 1. [Technical specifications](#technical-specifications)
 2. [Voltage](#voltage)
 
